@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher/Learner/Lecturer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Port City International University
+    url: https://www.portcity.edu.bd/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nurulabsar.cse.cu@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -50,6 +50,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Natural Language Processing
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +184,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Nurul Absar, currently serving as a Lecturer in the Department of Computer Science and Engineering at Port City International University(PCIU) in Chattogram, Bangladesh. I hold a Bachelor of Science in Computer Science and Engineering from Chittagong University. My research interests encompass a broad spectrum of artificial intelligence, with a particular focus on computer vision, natural language processing, and federated learning. The majority of my research is focused on leveraging generative adversarial networks (GANs) to address various practical challenges, particularly in the context of our local environment.
+
+Before joining PCIU, I served as a Adjunct Lecturer at BGC Trust University Bangladesh, where I contributed sincerely through my efforts in teaching and development of curriculum. I am passionate about teaching and mentoring students, and I strive to foster a collaborative learning environment.
+
+In addition to my teaching responsibilities, I am actively engaged in multiple research projects in collaboration with my students and peers. I am excited about the potential of technology to drive innovation and improve lives, and I am committed to contributing to this field through both my teaching and research efforts.
