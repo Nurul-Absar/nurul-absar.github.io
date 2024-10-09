@@ -1,7 +1,7 @@
 ---
 title: 'Experience'
 date: 2024-10-01
-type:Lecturer,CSE Department,PCIU
+type: Lecturer,CSE Department,PCIU
 
 design:
   spacing: '5rem'
