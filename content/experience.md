@@ -1,7 +1,7 @@
 ---
 title: 'Experience'
-date: 2023-10-24
-type: landing
+date: 2024-10-01 to Present
+type:Lecturer,CSE Department,PCIU
 
 design:
   spacing: '5rem'
