@@ -50,43 +50,29 @@ interests:
   - Natural Language Processing
 
 education:
-  - area: B.SC(Engg.) M.SC(Engg.)
+  - area: B.SC(Engg.)
     institution: University of Chittagong
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-01-01
+    date_end: 2023-09-21
+    CGPA: 3.62/4
     summary: |
-      Thesis of BSC  are awesome_. Supervised by [Dr.Mahbubul Islam](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis of BSC  are awesome_. Supervised by [Dr.Mahbubul Islam](https://example.com). Presented papers at  IEEE conferences.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.SC Artificial Intelligence
+    institution: University of Chittagong
+    date_start: 2023-10-01
+    date_end: 
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.6/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Lecturer of CSE Department in PCIU.
+    company_name: Port City International University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -141,9 +127,9 @@ skills:
 
 languages:
   - name: English
+    percent: 80
+  - name: Bangla
     percent: 100
-  - name: Chinese
-    percent: 75
   - name: Portuguese
     percent: 25
 
@@ -154,14 +140,14 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '2020-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: '2021-07-01'
     awarder: edX
     icon: edx
     summary: |
