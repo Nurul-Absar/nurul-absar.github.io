@@ -60,7 +60,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.SC Artificial Intelligence
+  - area: M.SC(Engg.)
     institution: University of Chittagong
     date_start: 2023-10-01
     date_end: 
